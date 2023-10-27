@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Cerbesus
-- 👀 I’m interested in Web Development and Cybersecurity
-- 🌱 I’m currently learning Administration of Computer Network Systems
+- 👀 I’m interested in Web & Game Development
+- 🌱 I’m currently learning Game Development
 - 💞️ I’m looking to collaborate on unique projects
 - 📫 How to reach me @brian.g.e on Instagram
 
