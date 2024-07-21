@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web & Game Development
 - 🌱 I’m currently learning Game Development
 - 💞️ I’m looking to collaborate on unique projects
-- 📫 How to reach me @brian.g.e on Instagram
+- 📫 How to reach me brian.gires@gmail.com
 
 <!---
 Cerbesus/Cerbesus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
